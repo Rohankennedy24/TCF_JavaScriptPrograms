@@ -1,5 +1,5 @@
 # TCF_JavaScriptPrograms
-*JavaScript Beginner Programs* 
+*JavaScript Programs* 
 
 This repository contains beginner-friendly JavaScript programs to understand the basics of programming, logic building, arrays, objects, and DOM manipulation.  
 
